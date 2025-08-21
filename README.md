@@ -19,7 +19,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 [Dynamic Regex Badge](https://img.shields.io/badge/dynamic/regex)
 ![Endpoint Badge](https://img.shields.io/endpoint)
-![Hangar Watchers](https://img.shields.io/hangar/watchers/:slug)
+
 
 
 
@@ -29,7 +29,8 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaosilva&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva&layout=compact&theme=tokyonight)  
 
