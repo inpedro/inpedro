@@ -17,8 +17,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-[Dynamic Regex Badge](https://img.shields.io/badge/dynamic/regex)
-![Endpoint Badge](https://img.shields.io/endpoint)
+![Ubuntu Package Version](https://img.shields.io/ubuntu/v/KaliLinux)
+![Ubuntu Package Version](https://img.shields.io/ubuntu/v/ArchLinux)
+![Ubuntu Package Version](https://img.shields.io/ubuntu/v/Debian)
+
+
 
 
 
@@ -29,10 +32,10 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaosilva&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva&layout=compact&theme=tokyonight)  
+  
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inpedro&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=inpedro&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inpedro&layout=compact&theme=tokyonight)  
 
 </div>
 
