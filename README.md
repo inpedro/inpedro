@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-<div align="justift">
+<div align="justify">
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
